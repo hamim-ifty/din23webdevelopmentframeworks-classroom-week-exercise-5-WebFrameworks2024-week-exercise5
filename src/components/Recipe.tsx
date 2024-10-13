@@ -30,5 +30,4 @@ const Recipe: React.FC<IRecipeProps> = ({ recipeData }) => {
 };
 
 export default Recipe;
-
-//done
+// hamim hasan Ifty
